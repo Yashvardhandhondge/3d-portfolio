@@ -184,7 +184,6 @@ export const navLinks = [
         duration: 'July 2024 - Present',
         title: "Developed and maintained the frontend of CodedEstate's platform, ensuring seamless Web3 integration. Built and deployed the mobile app using React Native.",
         icon: '/assets/image.png',
-        //
         animation: 'growth',
     },
     {
