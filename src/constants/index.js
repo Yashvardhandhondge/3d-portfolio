@@ -174,7 +174,7 @@ export const navLinks = [
         pos: 'Software Engineer',
         duration: 'March 2025 - Present',
         title: "Designed and implemented scalable API architecture for a CRM project, reducing response times by 40%. Optimized backend services and integrated third-party APIs to enhance functionality.",
-        icon: '/assets/axiomtech.png',
+        icon: '/assets/image.png',
         animation: 'growth',
     },
     {
@@ -183,7 +183,7 @@ export const navLinks = [
         pos: 'Junior Software Engineer',
         duration: 'July 2024 - Present',
         title: "Developed and maintained the frontend of CodedEstate's platform, ensuring seamless Web3 integration. Built and deployed the mobile app using React Native.",
-        icon: '/assets/image.png',
+        icon: '/assets/Coded.png',
         animation: 'growth',
     },
     {
